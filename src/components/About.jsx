@@ -13,7 +13,7 @@ const About = () => {
             </div>
 
             <p  className='text-xl mt-20'>
-            A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
+            A passionate Full Stack Web Developer 🚀 having an experience of building Web  applications with JavaScript / Reactjs / Nodejs / MongoDb and some other cool libraries and frameworks.
             </p>
            
 
